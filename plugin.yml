@@ -1,0 +1,10 @@
+---
+name: RemoveFireResistanceFromEnchantedGoldenApple
+version: 1.0.0
+main: Nerahikada\Rfrfega\Main
+api: 4.6.1
+src-namespace-prefix: Nerahikada\Rfrfega
+load: startup
+website: https://github.com/Nerahikada/RemoveFireResistanceFromEnchantedGoldenApple
+author: Nerahikada
+...
